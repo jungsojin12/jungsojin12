@@ -19,7 +19,6 @@ HTML, CSS, JavaScript, Figma등 다양한 툴을 활용하여 웹사이트의 �
 ##  EDUCATION
 2025.02.19 ~ 2025.08.07 생성형 AI를 활용한 영상 웹퍼블리셔&프론트엔드(React) 개발자과정 수료 - 엠비씨(MBC)아카데미 컴퓨터교육센터 화곡점
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ## 🛠  Technologies and tools
 
