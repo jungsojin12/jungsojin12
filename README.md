@@ -64,7 +64,7 @@ HTML, CSS, JavaScript, Figma등 다양한 툴을 활용하여 웹사이트의 �
 
 ## 🔍  함께 일할 웹 퍼블리셔를 찾고 계신가요?
 
-##  jungsojin18@daum.net
+##  jungsojin18@daum.net &nbsp;
 저에게 궁금한 점이 있다면 연락해 주세요 :)
 
 [tech_tools_anchor]: #bonjour--
